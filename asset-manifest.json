@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactTodo/static/css/main.c62821ff.css",
+    "main.js": "/ReactTodo/static/js/main.8b23ba2b.js",
+    "static/media/iconCongratulations.svg": "/ReactTodo/static/media/iconCongratulations.e376a6820ea8f2c230edf604e573b62b.svg",
+    "static/media/trahsPopover.svg": "/ReactTodo/static/media/trahsPopover.c36a1ca41d1d49174f58eb6fa41d76eb.svg",
+    "static/media/iconSearch.svg": "/ReactTodo/static/media/iconSearch.8d9f8bc1462399e705f1b44ff1a2631b.svg",
+    "static/media/btnUser.svg": "/ReactTodo/static/media/btnUser.17db3eb549d7911a036b05c8cd1fa686.svg",
+    "static/media/iconSelect.svg": "/ReactTodo/static/media/iconSelect.25fe58fa9e9052128a44ed3f493f010c.svg",
+    "index.html": "/ReactTodo/index.html",
+    "static/media/btnHome.svg": "/ReactTodo/static/media/btnHome.661baf56986dd1ec6bb99d2131e2535e.svg",
+    "static/media/btnAdd.svg": "/ReactTodo/static/media/btnAdd.6d4ef85d144539f4feaa71bd49886983.svg",
+    "static/media/btnCompleted.svg": "/ReactTodo/static/media/btnCompleted.647aa793c1509d8527a3fd1508c3637d.svg",
+    "static/media/btnPending.svg": "/ReactTodo/static/media/btnPending.1f8207d333fb4edee988a557dea8a586.svg",
+    "static/media/iconComplete.svg": "/ReactTodo/static/media/iconComplete.ef85ae7af94e602202f33741c56768fc.svg",
+    "static/media/iconClose.svg": "/ReactTodo/static/media/iconClose.219df9b7f767d1b4cea5ec425a2e2600.svg",
+    "static/media/iconDelete.svg": "/ReactTodo/static/media/iconDelete.d7b6b70b1f4ea18558ecec75fe0d7120.svg",
+    "static/media/iconBack.svg": "/ReactTodo/static/media/iconBack.b3533188f67496a6d71efdae0e6bbcf6.svg",
+    "static/media/btnAddComplete.svg": "/ReactTodo/static/media/btnAddComplete.26492cdd00ee9889323794bf2e3b31e0.svg",
+    "main.c62821ff.css.map": "/ReactTodo/static/css/main.c62821ff.css.map",
+    "main.8b23ba2b.js.map": "/ReactTodo/static/js/main.8b23ba2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c62821ff.css",
+    "static/js/main.8b23ba2b.js"
+  ]
+}
